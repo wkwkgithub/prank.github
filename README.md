@@ -32,6 +32,6 @@ MAU NGAK JADI PUNYA AKU😗
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"width":100,"style":{"color":{"background":"#45f085"}}} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background" href="https://images.app.goo.gl/9DUyMYFCgvWDKNcp9" style="background-color:#45f085" rel=""><strong>WA AKU</strong></a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background" href="http://wa.me/6282335165262" style="background-color:#45f085" rel=""><strong>WA AKU</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
