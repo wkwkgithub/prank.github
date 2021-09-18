@@ -1,4 +1,4 @@
-#><.github
+#><
 xixixi ><
 <!-- wp:search {"label":"Search","showLabel":false,"placeholder":"Cari","buttonText":"Search","buttonUseIcon":true} /-->
 
@@ -11,16 +11,16 @@ xixixi ><
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-MAU NGAK JADI PUNYA AKU😗
+PILIHEN FEN
 <!-- /wp:shortcode -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"primary","width":100,"style":{"color":{"background":"#14cf63"}}} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-text-color has-background" href="https://images.app.goo.gl/9DUyMYFCgvWDKNcp9" style="background-color:#14cf63" rel=""><strong>MAU</strong></a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-text-color has-background" href="https://images.app.goo.gl/9DUyMYFCgvWDKNcp9" style="background-color:#14cf63" rel=""><strong>🗿</strong></a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"textColor":"primary","width":100,"style":{"color":{"background":"#d34222"}}} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-text-color has-background" href="https://images.app.goo.gl/9DUyMYFCgvWDKNcp9" style="background-color:#d34222" rel=""><strong>GA MAU</strong></a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-primary-color has-text-color has-background" href="https://images.app.goo.gl/9DUyMYFCgvWDKNcp9" style="background-color:#d34222" rel=""><strong>🗿</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -32,6 +32,6 @@ MAU NGAK JADI PUNYA AKU😗
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"width":100,"style":{"color":{"background":"#45f085"}}} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background" href="http://wa.me/6282335165262" style="background-color:#45f085" rel=""><strong>WA AKU</strong></a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-background" href="http://wa.me/6282335165262" style="background-color:#45f085" rel=""><strong>WA</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
